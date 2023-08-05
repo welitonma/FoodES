@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-Projeto para criação de cardápio, etc...
+Projeto para criação de cardápio, etc... teste
 
 ## Instalação das dependencias de projeto
 ```
