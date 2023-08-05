@@ -1,16 +1,20 @@
 # fast-fome
 
-## Project setup
+## Descrição do projeto
+
+Projeto para criação de cardápio, etc...
+
+## Instalação das dependencias de projeto
 ```
-npm install
+npm install ou npm i
 ```
 
-### Compiles and hot-reloads for development
+### Compilação de desensolvimento com hot-reload
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilação pra produção
 ```
 npm run build
 ```
